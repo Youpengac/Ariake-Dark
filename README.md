@@ -1,2 +1,2 @@
 # Ariake-Dark
-Ariake Dark python color theme for PyCharm.  Inspired by the theme for atom.
+Ariake Dark Python color theme for PyCharm.  Tried to get it as close to the original theme for atom.
